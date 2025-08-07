@@ -1,2 +1,2 @@
-# BelajarOpenCV by Joshu Leonardy Lie 
+# OpenCV by Joshu Leonardy Lie 
 Computer Vision Basic Learning
