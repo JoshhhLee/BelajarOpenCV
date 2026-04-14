@@ -1,6 +1,6 @@
 import cv2
 
-cap = cv2.VideoCapture(0) 
+cap = cv2.VideoCapture(0) #if u have external camera u can try add "1" or "2"
 
 if not cap.isOpened():
     print("The camera can't open")
